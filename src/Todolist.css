@@ -1,0 +1,25 @@
+.Todolist {
+  width: 600px;
+  padding-top: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  flex: 1;
+  margin-bottom: 12px;
+}
+
+
+.item-left {
+  text-align: left
+}
+.item-right {
+  text-align: right
+}
